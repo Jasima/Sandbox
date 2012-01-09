@@ -1,0 +1,5 @@
+c:\users\jasima\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz.Core\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jasima\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz.Core\bin\Debug\FizzBuzz.Core.dll
+c:\users\jasima\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz.Core\bin\Debug\FizzBuzz.Core.pdb
+c:\users\jasima\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz.Core\obj\Debug\FizzBuzz.Core.dll
+c:\users\jasima\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz.Core\obj\Debug\FizzBuzz.Core.pdb
