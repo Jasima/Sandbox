@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll" total="25" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-01-10" time="12:15:16">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.4961" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0" machine-name="SWIFT-W7-1-PC" user="Jasima" user-domain="SWIFT-W7-1-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll" executed="True" result="Success" success="True" time="0.260" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="FizzBuzz" executed="True" result="Success" success="True" time="0.250" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.250" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="FzBzTests" executed="True" result="Success" success="True" time="0.250" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="returns_Buzz_when_divisible_by_5_and_not_by_15" executed="True" result="Success" success="True" time="0.100" asserts="0">
+                    <results>
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Buzz_when_divisible_by_5_and_not_by_15(5)" executed="True" result="Success" success="True" time="0.060" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Buzz_when_divisible_by_5_and_not_by_15(10)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Buzz_when_divisible_by_5_and_not_by_15(25)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Buzz_when_divisible_by_5_and_not_by_15(55)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Buzz_when_divisible_by_5_and_not_by_15(85)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Buzz_when_divisible_by_5_and_not_by_15(95)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="returns_empty_when_not_divisible_by_3_5_15" executed="True" result="Success" success="True" time="0.040" asserts="0">
+                    <results>
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_empty_when_not_divisible_by_3_5_15(1)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_empty_when_not_divisible_by_3_5_15(11)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_empty_when_not_divisible_by_3_5_15(23)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_empty_when_not_divisible_by_3_5_15(44)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_empty_when_not_divisible_by_3_5_15(86)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_empty_when_not_divisible_by_3_5_15(98)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="returns_Fizz_when_divisible_by_3_and_not_by_15" executed="True" result="Success" success="True" time="0.040" asserts="0">
+                    <results>
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3_and_not_by_15(3)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3_and_not_by_15(12)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3_and_not_by_15(27)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3_and_not_by_15(54)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3_and_not_by_15(66)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3_and_not_by_15(78)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3_and_not_by_15(99)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="returns_FizzBuzz_when_divisible_by_15" executed="True" result="Success" success="True" time="0.030" asserts="0">
+                    <results>
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_FizzBuzz_when_divisible_by_15(15)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_FizzBuzz_when_divisible_by_15(30)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_FizzBuzz_when_divisible_by_15(45)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_FizzBuzz_when_divisible_by_15(60)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_FizzBuzz_when_divisible_by_15(75)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="FizzBuzz.Tests.FzBzTests.returns_FizzBuzz_when_divisible_by_15(90)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

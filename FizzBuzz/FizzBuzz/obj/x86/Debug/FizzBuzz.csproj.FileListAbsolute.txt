@@ -7,3 +7,8 @@ c:\users\jasima\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz\bin\Debu
 c:\users\jasima\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Core.pdb
 C:\Users\Jasima\Documents\Visual Studio 2010\Projects\SandBox\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
 C:\Users\Jasima\Documents\Visual Studio 2010\Projects\SandBox\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
+C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Core.dll
+C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Core.pdb
+C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache

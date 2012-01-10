@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll</TopNode>
+  <SelectedNode>[0-1009]C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\Users\Jasima\Documents\Visual Studio 2010\Projects\Sandbox\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]FizzBuzz" Expanded="true" />
+    <Node UniqueName="[0-1011]FizzBuzz.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]FizzBuzz.Tests.FzBzTests" Expanded="true" />
+    <Node UniqueName="[0-1001]FizzBuzz.Tests.FzBzTests.returns_Fizz_when_divisible_by_3" Expanded="true" />
+  </Nodes>
+</VisualState>
